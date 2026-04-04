@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="zivpn.png" width="420">
+  <img src="zivpn.txt" width="420">
 </p>
 
 <h1 align="center">🚀 ZiVPN UDP Server</h1>
